@@ -1,28 +1,60 @@
-## Desk Navbar Extended
+<div align="center">
+![Desk Navbar Extended Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<h1 align="center">Desk Navbar Extended: Unleashing Your Productivity Potential</h1>
+<p align="center">
+Amplify your efficiency with a fully customizable desk navbar.
+<br />
+<a href="https://grow.empress.eco/">Explore the Docs</a>
+·
+<a href="https://github.com/empress-eco/desk_navbar_extended/issues">Report Bug</a>
+·
+<a href="https://github.com/empress-eco/desk_navbar_extended/issues/new">Request Feature</a>
+</p>
+</div>
 
-Tweaks in Desk's Navbar to boost Productivity
+## About The Project
 
-[![Try on Frappe Cloud](./.github/assets/try-on-fc.png)](https://frappecloud.com/marketplace/apps/desk_navbar_extended?referrer=a6d8da54)
+### 📖 Overview
+Desk Navbar Extended is a dynamic productivity tool designed for developers and users who seek to maximize their time and resources. It offers a range of customizable features to enhance your work experience and elevate your efficiency.
 
-### Features
+### 🌟 Key Features
+- Current User & Site Time Display: Have both user and site time zones at your fingertips in the Desk's Navbar Menu.
+- Wider Awesomebar: Enjoy a broader search bar for a superior user experience.
+- Voice Search in Awesomebar: A feature under development to enable multi-language voice search, powered by OpenAI.
 
-1. Show User & Site current time in Desk's Navbar Menu
+### 🛠 Built With
+This project is developed using revolutionary open-source technologies.
 
-![](./.github/assets/same-time_zone.png)
-*When User & Site TimeZones Match*
+## Getting Started
 
-![](./.github/assets/different-time_zone.png)
-*When User & Site TimeZones are Different*
+### Prerequisites
+For optimum performance, ensure you have the latest version of your preferred browser installed.
 
-2. Wider Awesomebar
+### Installation
+Follow these steps to set up a development environment:
 
-![](./.github/assets/wider-awesomebar.png)
+1. Clone the repo: 
+```sh
+git clone https://github.com/empress-eco/desk_navbar_extended.git
+```
+2. Follow the displayed instructions to complete the installation process.
 
-3. Voice Search in Awesomebar _[WIP]_
+### Usage
+Leverage the features to save time and enhance productivity. Feel free to explore and customize the tool to suit your preferences.
 
-![](./.github/assets/audio_search-awesomebar.png)
-*Multi-language support powered by OpenAI*
+### Contributing
+We welcome and appreciate contributions! Here's how you can contribute:
 
-#### License
+- Fork the Project
+- Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+- Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+- Push to the Branch (`git push origin feature/AmazingFeature`)
+- Open a Pull Request
 
-MIT
+## License
+
+This project is licensed under the MIT License. Your contributions are also licensed under the MIT License.
+
+## Acknowledgements
+
+We extend our sincere gratitude to all contributors and users. Your support and feedback help us continually improve and offer more features. A special thanks to the Empress Community, whose innovative tools form the foundation of this project. We profoundly appreciate their pioneering work and ongoing support.
