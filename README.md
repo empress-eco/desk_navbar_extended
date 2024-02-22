@@ -1,5 +1,5 @@
 <div align="center">
-![Desk Navbar Extended Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 <h1 align="center">Desk Navbar Extended: Unleashing Your Productivity Potential</h1>
 <p align="center">
 Amplify your efficiency with a fully customizable desk navbar.
